@@ -1,0 +1,14 @@
+<html>
+    </body>
+        <form method="POST">
+        {% csrf_token %}
+        <h1>Sentiment classification</h1>
+    <label> Input text: </label>
+    <input id="input_text" type="text" name="input_text" value="{{ input_text }}">
+
+    </select>
+    <input type="submit" value="Submit"><br>
+       <h1> {{result | linebreaks}}</h1>
+    </form>
+    </body>
+</html>

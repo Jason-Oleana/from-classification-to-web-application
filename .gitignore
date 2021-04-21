@@ -1,0 +1,32 @@
+# exclude everything in this folder
+.ipynb_checkpoints/*
+
+# exclude everything in this folder
+/__pycache__/*
+
+# exclude everything in this folder
+/app/webapp/__pycache__/*
+
+# exclude everything in this folder
+/app/my_settings/__pycache__/*
+
+# exclude everything in this folder
+/app/webapp/migrations/__pycache__/*
+
+# exclude everything in this folder
+app/__pycache__/*
+
+# exclude db.sqlite3
+app/db.sqlite3
+
+# exclude init
+app/my_settings/__init__.py
+
+# exclude init
+app/webapp/__init__.py
+
+# exclude models in model dir
+app/models/*
+
+# exclude processors in processors dir
+app/processors/*
