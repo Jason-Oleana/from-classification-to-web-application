@@ -27,3 +27,6 @@ app/webapp/__init__.py
 
 # exclude models in model dir
 app/models/*
+
+# exclude processors in processors dir
+app/processors/*
