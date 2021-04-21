@@ -125,20 +125,6 @@ docker images
 docker rmi <IMAGE ID>
 ```
 
-### There are 2 webapps (ML-based & DL-based)
-
-you can switch between ML & DL by using git checkout
-
-**for the machine learning version use**
-```
-git checkout ML/webapp
-```
-
-**for the deep learning version use**
-```
-git checkout DL/webapp
-```
-
 # How to serve model using FastAPI
 
 ### 1. Go to project dir
