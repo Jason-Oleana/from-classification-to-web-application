@@ -48,7 +48,7 @@ pip install -r requirements.txt
 Open CountVectorizer.ipynb or TF-IDF Vectorizer.ipynb and run this notebook
 ```
 
-### 5. DONE! You can run the web application or FastAPI app
+### 5. DONE! You can now run the Django app or FastAPI app
 
 ## How to run the application (Scroll down for Docker)
 
