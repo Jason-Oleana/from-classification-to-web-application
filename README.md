@@ -42,6 +42,12 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### 5. train model
+
+```
+Open CountVectorizer.ipynb or TF-IDF Vectorizer.ipynb and run this notebook
+```
+
 ## How to run project locally (Scroll down for Docker)
 
 
