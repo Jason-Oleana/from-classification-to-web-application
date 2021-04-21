@@ -2,7 +2,7 @@
 
 The main goal of this repo is to provide an example of how to build your own machine learning-based web application from start to finish. Besides the web app, you can find an example of how to deploy a trained ml model as API using FastAPI.
 
-To top it of, you can run both the ml webapp and fastAPI in Docker🐋
+To top it off, you can run both the ml webapp and fastAPI in Docker🐋
 
 ## How to install all requirements 
 
