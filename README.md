@@ -46,9 +46,10 @@ pip install -r requirements.txt
 
 ```
 Open CountVectorizer.ipynb or TF-IDF Vectorizer.ipynb and run this notebook
+When the script has finished you are ......
 ```
 
-### 5. DONE! 
+### 6. DONE! 
 ```
 You can now run the Django app or FastAPI app
 ```
