@@ -48,7 +48,9 @@ pip install -r requirements.txt
 Open CountVectorizer.ipynb or TF-IDF Vectorizer.ipynb and run this notebook
 ```
 
-## How to run project locally (Scroll down for Docker)
+### 5. DONE! You can run the web application or FastAPI app
+
+## How to run the application (Scroll down for Docker)
 
 
 ### 1. Go to project dir
@@ -69,13 +71,13 @@ python manage.py runserver 8000
 http://localhost:8000/
 ```
 
-### How to bring the project down
+### How to bring the application down
 
 ```
 CTRL + C
 ```
 
-## How to run project locally using Docker
+## How to run the application using Docker
 
 
 ### 1. Build image
