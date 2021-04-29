@@ -9,13 +9,13 @@ To top it off, you can run both the ml webapp and fastAPI in Docker🐋
 ### 1. Git clone project
 
 ```
-git clone https://gitlab.com/jasongeniusvoice/ml_webapp.git
+git clone https://github.com/Jason-Oleana/from-classification-to-web-application.git
 ```
 
 ### 2. Go to project dir
 
 ```
-cd ml_webapp
+cd from-classification-to-web-application
 ```
 
 ### 3. Set up a virtual Python environment with [venv](https://docs.python.org/3/library/venv.html)
